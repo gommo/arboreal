@@ -1,0 +1,9 @@
+{
+  "name": "arboreal",
+  "version": "1.0",
+  "dependencies": {
+  },
+  "main": [
+  	"lib/arboreal.js"
+  ]
+}
